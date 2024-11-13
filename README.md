@@ -22,7 +22,7 @@ These keys can be found on the Internet, several sites will be presented below
 Next, enter the delay between keystrokes, most often it is 0.2 seconds
 
 After this, you have 5 seconds to prepare, after which the program will begin execution.
-#Sites with some songs
+# Sites with some songs
 
 https://game-roblox.ru/info-po-igre/pianino-roblox/
 
